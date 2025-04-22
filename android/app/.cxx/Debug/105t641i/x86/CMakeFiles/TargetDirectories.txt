@@ -1,0 +1,2 @@
+C:/Users/Thunder5torm/Documents/GitHub/test-native/android/app/.cxx/Debug/105t641i/x86/CMakeFiles/edit_cache.dir
+C:/Users/Thunder5torm/Documents/GitHub/test-native/android/app/.cxx/Debug/105t641i/x86/CMakeFiles/rebuild_cache.dir
